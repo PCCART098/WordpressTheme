@@ -29,7 +29,7 @@
                     </div>
 
                     <div class="col-12 col-lg-4">
-                        <?php the_tags('Tags:', ',' , '<br>'); ?>
+                        <?php the_tags('Tags:', ', ' , '<br>'); ?>
                     </div>
                 </div>
             </div>
