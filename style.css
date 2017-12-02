@@ -1,0 +1,17 @@
+/*
+Theme Name: Basic Theme 2
+Author: Ryan Yang
+Version: 0.4
+*/
+
+body{
+	color: white;
+    background-color: #180060;
+}
+h1{
+    color: yellow;
+}
+.date{
+    color: aliceblue;
+    font-size: 24px;
+}
