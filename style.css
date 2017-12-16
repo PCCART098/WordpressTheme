@@ -1,17 +1,43 @@
 /*
 Theme Name: Basic Theme 2
 Author: Ryan Yang
-Version: 0.4
+Version: 0.5
 */
 
 body{
-	color: white;
-    background-color: #180060;
+	color: black;
+    background-image: url("https://foreignpolicymag.files.wordpress.com/2017/11/gettyimages-2062515.jpg?w=1500&h=977&crop=0,0,34,0");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
 }
 h1{
-    color: yellow;
+    color: black;
+}
+h2{
+	color: white;
+	font-size: 50px;
+	text-align: center;
+}
+.hero{
+ 	background-image: url("https://www.battleforthenet.com/images/share_images/urgent.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+	background-color: red;
+	height: 30vh;
 }
 .date{
-    color: aliceblue;
+    color: black;
     font-size: 24px;
+}
+.margins{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border: 5px solid darkblue;
+}
+.footer{
+    background-color: darkorchid;
+    text-align: center;
 }
